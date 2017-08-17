@@ -1,0 +1,149 @@
+#+TITLE:   Seminar Economics of Privacy
+#+AUTHOR:    Christoph Schottmüller
+#+EMAIL:     christoph@worknotebook.home
+#+DATE:    
+#+DESCRIPTION:
+#+KEYWORDS:
+#+LANGUAGE:  en
+#+OPTIONS:   H:2 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+
+
+#+startup: beamer
+#+LaTeX_CLASS: beamer
+#+LaTeX_CLASS_OPTIONS: 
+#+BEAMER_FRAME_LEVEL: 2
+#+latex_header: \mode<beamer>{\useinnertheme{rounded}\usecolortheme{rose}\usecolortheme{dolphin}\setbeamertemplate{navigation symbols}{}\setbeamertemplate{footline}[frame number]{}}
+#+latex_header: \mode<beamer>{\usepackage{amsmath}\usepackage{ae,aecompl}}
+#+LATEX_HEADER:\let\oldframe\frame\renewcommand\frame[1][allowframebreaks]{\oldframe[#1]}
+#+LATEX_HEADER: \setbeamertemplate{frametitle continuation}[from second]
+
+* Economics of Privacy
+**  Economics of Privacy
+- not a traditional field in economics
+- some recent interest
+- mainly viewed as  problem of controlling information (information asymmetries)
+
+* What are you expected to do?
+** What are you expected to do? I
+
+1. pick a paper from the list
+2. read the survey: Acquisti, Alessandro, Curtis Taylor, and Liad Wagman. "The economics of privacy." Journal of Economic Literature 54.2 (2016): 442-492.
+3. read your paper, search for related literature and read it
+4. submit commitment paper (including a non-binding idea for 5)
+5. produce a small but original contribution, for example: 
+  - a variation of the model (simplify to extend)
+  - a numerical solution/simulation that illustrates aspects of the model in the paper which have not been or can not be showed analytically
+  - a worked-out numerical example where you can illustrate the results of the paper (leading to a graphical illustration)
+  - a comparison of the results in the paper to later, related papers (if this is not made in those later papers)
+
+
+** What are you expected to do? II
+
+1. write up what you have learned (following the structure in the course description)
+2. prepare a presentation
+3. send paper (and presentation) to the discussant
+4. read the paper you have to discuss and prepare a discussion
+5. skim other students' papers before presentation day
+6. presentation and discussion
+7. improve and polish your paper based on the feedback you got and submit
+
+** Important dates and formal requirements
+- deadline for commitment paper: October 1, 9.00
+- deadline of pre-paper uploaded to Absalon: November 9, 9:00
+- presentation days:  November (16 and) 17, 9:00-17:00
+- deadline for handing in paper: December 4, 9:00
+
+- formal requirements: https://intranet.ku.dk/economics_ma/study_programme/seminars/Pages/default.aspx
+
+* How to read a paper?
+** How to read a paper?
+
+\pause
+
+- Peter Klein: https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/
+
+# - An old classic on how to read: Adler, Mortimer J., and Charles Van Doren. /How to read a book: The classic guide to intelligent reading./ Simon and Schuster, 2014.
+
+
+* How to write your seminar paper?
+** How to write your seminar paper? structure
+- structure from syllabus:
+
+  - Introduction: Explain what is the topic and why it is interesting for economists.
+
+  - Related Literature Review: Briefly explain which other articles are relevant for the issue at hand and put the paper in a broader context.
+
+  - Model: Present the setup of the paper.
+
+  - Results: Present and discuss the results of the paper. Avoid repeating proofs, but make sure you understand them and give intuitions, illustrations, or summaries of the main arguments instead.
+
+  - Your Contribution: see slide 3
+  - Related Work: Briefly summarize related papers which appeared after the one you have been assigned (can be merged with the “related literature review”)
+
+  - Conclusion: Summarize your work and its message; possibly point out open questions.
+
+** How to write your seminar paper? style
+
+- academic style 
+  - no personal value judgements or expressions of personal preferences (avoid words like "very", "good", "bad", "easy" etc.)
+  - make quotes recognizable (plagiarism!)
+- general rules of style apply 
+   - check some English style guide
+
+- bibliography and citations author (year) style
+   - Author (year); Author1 and Author2 (year); Author1 et al. (year)
+   - bibliography at the end of the paper:
+      - Posner, R. A. (1981). The economics of privacy. /American Economic Review 71 (2)/, 405–409.
+      - Solove, D. J. (2010). /Understanding Privacy./ Cambridge, MA: Harvard University Press.
+
+- notation: mnemonic, as simple as possible
+- a paper is not a crime novel (no suspense, climax etc.)
+- make it easy to read (don't over-complicate)
+
+** How to write a seminar paper? practical issues
+- consider using LaTeX 
+   - use the [[https://en.wikibooks.org/wiki/LaTeX][wikibook]]
+   - BibTeX for citations, see Osborne's [[https://www.economics.utoronto.ca/osborne/latex/BIBTEX.HTM][guide]]
+   - LaTeX template on Absalon
+- if you don't want to write LaTeX directly, consider LyX
+- literature search
+   - access to papers mainly via [[https://www.jstor.org/][JSTOR]] and [[http://www.sciencedirect.com][sciencedirect]] (use VPN if you are off campus)
+      - pre-formatted bibliography entries, including BibTeX format
+   - Google scholar 
+      - pre-formatted bibliography entries, including BibTeX format
+      - search using arbitrary terms; e.g. title, author, keywords
+      - "cited by" to find follow up papers
+
+* How to present your paper
+** How to present your paper
+- you can use slides (consider the LaTeX Beamer package...directly or through LyX)
+- what is the starting point? (your chosen published paper)
+   - what is the problem/question?
+   - why is it relevant?
+   
+- what is your original contribution?
+   - motivation: why is it relevant?
+   - what did you do?
+   - what are the results/implications?
+   - what is critical?
+- conclude
+   - what is your message (in less than 3 sentences)?
+
+* How to discuss a paper?
+** How to discuss a paper?
+- what is the main (new) point of the paper from your point of view? 
+- is the original contribution clear and convincing? (what are the crucial assumptions and do they make sense? is there a relevant application?)
+- is the representation of the published paper/literature accurate?
+- your constructive comments, e.g.
+  - point out a new application or applicability to a related problem
+  - suggest a -- not mentioned -- relation to literature 
+  - can the results/analysis be viewed from a different perspective? how does the analysis fit into the big picture?
+
+- if you find a (mathematical) error, tell the author immediately; i.e. before presentation day.
+
+- do not publicly comment on style, language, grammar and spelling, or notation; (you are encouraged to do this in private)
+ 
