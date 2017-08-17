@@ -9,3 +9,48 @@
   - [[https://schottmueller.github.io/teaching/privacy.bib][.bib]] file (bibliography)
   - [[https://github.com/schottmueller/seminarprivacy/files/1231308/LaTeXTemplate.pdf][.pdf]] (output after compilation)
   - [[https://schottmueller.github.io/teaching/Vprime.png][example graphic]]
+- [[http://kurser.ku.dk/course/a%c3%98kk08321u/2017-2018][syllabus]]
+- survey: Acquisti, Alessandro, Curtis Taylor, and Liad Wagman. "The economics of privacy." Journal of Economic Literature 54.2 (2016): 442-492.
+
+* List of papers
+
+** Privacy in various contexts
+
+- Posner, AER 1981, 71(2), p. 405-409, /The economics of privacy/ \par If privacy means holding private information, what are the welfare consequences of policies aimed at preserving privacy?
+
+- Hirshleifer, AER 1971, 61, p. 561-74, /The Private and Social Value of Information and the Reward to Inventive Activity/ \par What are the welfare effects from acquiring information about the production technology in an economcy? How is this influenced by whether the information can be shared or not? 
+
+- Hirshleifer, Journal  of  Legal  Studies  1980, 9(4), p. 649-664, /Privacy:  Its  origins,  function  and  future/ 
+
+- Ali, Bénabou. /Image versus information: Changing societal norms and optimal privacy/ No. w22203. National Bureau of Economic Research, 2016.\par People can contribute to a public good and differ in their marginal utility of that. However, people also care about image (they want to be viewed as generous). A government can top up the contributions but does not know the general level of usefulness of the public good. Privacy shuts down image concerns and therefore contributions are indicative of the usefulness of the public good, i.e. the government knows how much to top up, but privacy also means that free riding incentives are prominent (and not countervailed by image concerns). 
+
+- Daughety, Reinganum, American Economic Journal: Microeconomics 2010, 2(2), p. 191-221, /Public goods, social pressure, and the choice between privacy and publicity/ \par An agent cares about his action (say voluntary contribution to a public good), other agents' actions and the perception of other agents about his action. What are the welfare effects of the possibility to keep your action private? 
+
+- Kahn,  McAndrews,  Roberds, Technical Report 2000-22, Federal Reserve Bank of Atlanta 2000,  /A theory of transactions privacy/ \par Following the Coase theorem, property rights over data (who owns your personal data) do not affect final outcomes. The paper describes why Coasian bargaining might break down and why privacy rights matter in this case.
+
+- Jann and Schottmüller, working paper 2016, /An informational theory of privacy/ \par If individuals fear statistical discrimination in the future based on their decisions today, they might adapt today's behavior ("chilling effects"). What are the welfare effects of this?
+
+- Varian, In Privacy and Self-regulation in the Information Age. US Department of Commerce 1997,    /Economic aspects of personal privacy/ \par Notes that low costs of information processing in the computer age generate privacy concerns. However, he notes that consumers might suffer if too little is known about them.
+
+- Hoffmann, Inderst,  Ottaviani, working paper 2015, /Persuasion through Selective Disclosure: Implications for Marketing, Campaigning, and Privacy Regulation/ \par Senders (say parties or firms) have very rich information and have therefore be selective in what to communicate to targets (say voters or consumers). When are privacy rules, which require the target's consent before acquiring information on it, efficient? *
+
+- Cummings R, Ligett K, Pai M. and A. Roth, working paper 2015, The strange case of privacy in equilibrium models
+\par In a model of targeted advertising the degree of privacy is modeled by a continuous parameter ranging from full to no privacy. It is shown that the effect of varying privacy on various outcomes is not necessarily monotonic and sometims counterintuitive.
+
+** Personalization of prices and/or product
+
+- Taylor, RAND 2004, 35, p. 631-51, /Consumer Privacy and the Market for Customer Information/ \par Firms use past purchase data to price discriminate. What are the welfare effects if firms can sell the information they have on users to other firms?
+
+- Acquisti,  Varian, Marketing  Science 2005, 24(3), p.  367–381,  /Conditioning prices  on  purchase  history/ \par Merchants have tracking technologies (say cookies) while consumers have anonymization tools. When will personalization raise merchants profits or consumer surplus?
+
+- Villas-Boas, Rand Journal of Economics 2004, 35(3), p.  486–501, /Price cycles in markets with customer recognition/ \par How do consumers behave today if they expect that their purchasing patterns today will be used to price discriminate in the future? What are the consequences for firms' profits?
+
+- Taylor and Wagman, International Journal of Industrial Organization 2014, 34, p. 80-84, /Consumer Privacy in Oligopolistic Markets: Winners, Losers, and Welfare/ \par What are the welfare effects of (non-) availability of personal information on consumers in standard IO models?
+
+- Kim, Choi, Journal of Economics & Management Strategy 2010,  19(2), p. 403–433,  /Customer information sharing:  Strategic incentives and new implications/ \par Oligopoistic firms can share data of consumers' past purchasing behavior with another while they are unsure about consumers preferences. Will information be shared? What is the effect on consumer surplus?
+
+- Kim,  Wagman, RAND Journal of Economics 2015, 46(1), p. 1–22, /Screening incentives and privacy protection in financial markets: A theoretical and empirical analysis/  \par Firms offer financial products and screen consumers; they also sell information gained in the screening to other banks. How does the ability to sell personal information of consumers affect market outcomes?
+
+- Conitzer, Taylor, Wagman, Marketing Science 2012, 31, p. 762-94, /Hide and Seek: Costly consumer privacy in a market with repeat purchases/ \par A firm can use past purchasing behavior to price discriminate if it can identify consumers. Consumers can choose to anonymize (potentially at a cost). Will consumers anonymize in equilibrium? What are the effect on profits and consumer surplus if the costs of anonymization change?
+
+- Calzolari, Pavan, Journal of Economic Theory 2006, 130(1), p. 168–204, /On the optimality of privacy in sequential contracting/  \par A consumer can buy first from an upstream and then from a downstream seller. The upstream seller can sell purchasing information to the downstream seller. If the consumer anticipates this, will private information be traded in equilibrium? Would the upstream seller commit to privacy if he can? What are the welfare effects of selling information? \par  /(required tools: revelation principle, envelope theorem)/ **
