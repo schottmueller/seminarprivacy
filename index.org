@@ -5,7 +5,7 @@
 
 - slides: [[https://github.com/schottmueller/seminarprivacy/files/1231301/seminarPrivacySlides.pdf][pdf]], [[./seminarPrivacySlides.org][org]]
 - LaTeX template
-  - [[./LaTeXTemplate.tex][.tex]] file
-  - [[./privacy.bib][.bib]] file (bibliography)
+  - [[https://schottmueller.github.io/teaching/LaTeXTemplate.tex][.tex]] file
+  - [[https://schottmueller.github.io/teaching/privacy.bib][.bib]] file (bibliography)
   - [[https://github.com/schottmueller/seminarprivacy/files/1231308/LaTeXTemplate.pdf][.pdf]] (output after compilation)
-  - [[./Vprim.png][example graphic]]
+  - [[https://user-images.githubusercontent.com/9448655/29413802-f6f2a420-835d-11e7-8feb-5ecd530274aa.png][example graphic]]
