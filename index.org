@@ -1,7 +1,7 @@
 #+TITLE: Seminar Economics of Privacy 2017
 #+AUTHOR: Christoph Schottmüller
 
-* Intro metting
+* Intro meeting
 
 - slides: [[https://github.com/schottmueller/seminarprivacy/files/1231301/seminarPrivacySlides.pdf][pdf]], [[./seminarPrivacySlides.org][org]]
 - LaTeX template
