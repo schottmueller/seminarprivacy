@@ -4,7 +4,7 @@
 * Intro meeting
 
 - slides: [[https://github.com/schottmueller/seminarprivacy/files/1231301/seminarPrivacySlides.pdf][pdf]], [[./seminarPrivacySlides.org][org]]
-- LaTeX template
+- LaTeX template (read the "Getting started" part of the [[https://en.wikibooks.org/wiki/LaTeX][wikibook]] first)
   - [[https://schottmueller.github.io/teaching/LaTeXTemplate.tex][.tex]] file
   - [[https://schottmueller.github.io/teaching/privacy.bib][.bib]] file (bibliography)
   - [[https://github.com/schottmueller/seminarprivacy/files/1231308/LaTeXTemplate.pdf][.pdf]] (output after compilation)
@@ -34,8 +34,7 @@
 
 - Hoffmann, Inderst,  Ottaviani, working paper 2015, /Persuasion through Selective Disclosure: Implications for Marketing, Campaigning, and Privacy Regulation/ \par Senders (say parties or firms) have very rich information and have therefore be selective in what to communicate to targets (say voters or consumers). When are privacy rules, which require the target's consent before acquiring information on it, efficient? *
 
-- Cummings R, Ligett K, Pai M. and A. Roth, working paper 2015, The strange case of privacy in equilibrium models
-\par In a model of targeted advertising the degree of privacy is modeled by a continuous parameter ranging from full to no privacy. It is shown that the effect of varying privacy on various outcomes is not necessarily monotonic and sometims counterintuitive.
+- Cummings R, Ligett K, Pai M. and A. Roth, working paper 2015, The strange case of privacy in equilibrium models \par In a model of targeted advertising the degree of privacy is modeled by a continuous parameter ranging from full to no privacy. It is shown that the effect of varying privacy on various outcomes is not necessarily monotonic and sometims counterintuitive.
 
 ** Personalization of prices and/or product
 
