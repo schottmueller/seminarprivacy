@@ -5,10 +5,11 @@
 
 - slides: [[https://github.com/schottmueller/seminarprivacy/files/1231301/seminarPrivacySlides.pdf][pdf]], [[./seminarPrivacySlides.org][org]]
 - LaTeX template (read the "Getting started" part of the [[https://en.wikibooks.org/wiki/LaTeX][wikibook]] first)
-  - [[https://schottmueller.github.io/teaching/LaTeXTemplate.tex][.tex]] file
+  - [[https://schottmueller.github.io/teaching/LaTeXTemplate.tex][.tex]] file (with instructions for common usage situations)
   - [[https://schottmueller.github.io/teaching/LaTeXTemplate.pdf][.pdf]] (output after compilation)
   - [[https://schottmueller.github.io/teaching/privacy.bib][.bib]] file (bibliography)
   - [[https://schottmueller.github.io/teaching/Vprime.png][example graphic]]
+  - plain  [[https://schottmueller.github.io/teaching/LaTeXTemplatePlain.tex][.tex]] template
 - [[http://kurser.ku.dk/course/a%c3%98kk08321u/2017-2018][syllabus]]
 - survey: Acquisti, Alessandro, Curtis Taylor, and Liad Wagman. "The economics of privacy." Journal of Economic Literature 54.2 (2016): 442-492.
 
