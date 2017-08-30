@@ -17,7 +17,7 @@
 
 ** Privacy in various contexts
 
-- Posner, AER 1981, 71(2), p. 405-409, /The economics of privacy/ \par If privacy means holding private information, what are the welfare consequences of policies aimed at preserving privacy?
+- Posner, AER 1981, 71(2), p. 405-409, /The economics of privacy/ :: If privacy means holding private information, what are the welfare consequences of policies aimed at preserving privacy?
 
 - Hirshleifer, AER 1971, 61, p. 561-74, /The Private and Social Value of Information and the Reward to Inventive Activity/ \par What are the welfare effects from acquiring information about the production technology in an economcy? How is this influenced by whether the information can be shared or not? 
 
