@@ -21,7 +21,7 @@
 
 - Hirshleifer, AER 1971, 61, p. 561-74, /The Private and Social Value of Information and the Reward to Inventive Activity/ :: What are the welfare effects from acquiring information about the production technology in an economcy? How is this influenced by whether the information can be shared or not? 
 
-- Hirshleifer, Journal  of  Legal  Studies  1980, 9(4), p. 649-664, /Privacy:  Its  origins,  function  and  future/ 
+- Hirshleifer, Journal  of  Legal  Studies  1980, 9(4), p. 649-664, /Privacy:  Its  origins,  function  and  future/ ::
 
 - Ali, Bénabou. /Image versus information: Changing societal norms and optimal privacy/ No. w22203. National Bureau of Economic Research, 2016. :: People can contribute to a public good and differ in their marginal utility of that. However, people also care about image (they want to be viewed as generous). A government can top up the contributions but does not know the general level of usefulness of the public good. Privacy shuts down image concerns and therefore contributions are indicative of the usefulness of the public good, i.e. the government knows how much to top up, but privacy also means that free riding incentives are prominent (and not countervailed by image concerns). 
 
