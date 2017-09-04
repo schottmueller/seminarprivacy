@@ -3,6 +3,8 @@
 
 * Intro meeting
 
+September 13, 10.00 in CSS 1.1.17
+
 - slides: [[https://github.com/schottmueller/seminarprivacy/files/1236470/seminarPrivacySlides.pdf][pdf]], [[./seminarPrivacySlides.org][org]]
 - LaTeX template (read the "Getting started" part of the [[https://en.wikibooks.org/wiki/LaTeX][wikibook]] first)
   - [[https://schottmueller.github.io/teaching/LaTeXTemplate.tex][.tex]] file (with instructions for common usage situations)
