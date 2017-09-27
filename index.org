@@ -9,7 +9,7 @@ https://docs.google.com/spreadsheets/d/1_Cs8sPdAGNvs0_skmgM7oYmGhpHgTxeeBddfm9oZ
 
 * Intro meeting
 
-September 13, 10.00 in CSS 1.1.17
+Monday, September 11, 10.00 in CSS 1.1.17
 
 - slides: [[https://github.com/schottmueller/seminarprivacy/files/1236470/seminarPrivacySlides.pdf][pdf]], [[./seminarPrivacySlides.org][org]]
 - LaTeX template (read the "Getting started" part of the [[https://en.wikibooks.org/wiki/LaTeX][wikibook]] first)
