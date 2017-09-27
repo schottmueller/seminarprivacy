@@ -1,6 +1,12 @@
 #+TITLE: Seminar Economics of Privacy 2017
 #+AUTHOR: Christoph Schottmüller
 
+* Office hours
+On Tuesday, October 3, I will have office hours in case you want to discuss something about your paper with me. You can book a slot using the following spreadsheet.
+
+https://docs.google.com/spreadsheets/d/1_Cs8sPdAGNvs0_skmgM7oYmGhpHgTxeeBddfm9oZ9wk/edit?usp=sharing
+
+
 * Intro meeting
 
 September 13, 10.00 in CSS 1.1.17
