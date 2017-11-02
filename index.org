@@ -1,6 +1,9 @@
 #+TITLE: Seminar Economics of Privacy 2017
 #+AUTHOR: Christoph Schottmüller
 
+* Paper submission
+We will try to have the paper submission through Absalon. You should be able to upload your paper and also you should be assigned one paper to "peer review" which means that this is the paper you will have to discuss on presentation day. 
+
 * Office hours
 On Tuesday, October 3, I will have office hours in case you want to discuss something about your paper with me. You can book a slot using the following spreadsheet.
 
