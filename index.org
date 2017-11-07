@@ -1,8 +1,41 @@
 #+TITLE: Seminar Economics of Privacy 2017
 #+AUTHOR: Christoph Schottmüller
+* Presentation Days
+This is the plan for the presentation days. The room will be announced later.
+
+Thursday Nov. 16:
+
+|  time | presenter  | paper                     | discussant |
+|-------+------------+---------------------------+------------|
+| 14:00 | Änne       | Aquisti and Varian (2005) |      Birk  |
+| 14:40 | Marius     | Taylor (2004)             |    Peter   |
+| 15:20 | break      |                           |            |
+| 15:35 | Arthur     | Conitzer et al. (2012)    |    Gustav  |
+| 16:15 | Jens-Peter | Villas Boas (2004)        |    Änne    |
+
+Friday Nov. 17:
+
+|  time | presenter   | paper                         | discussant |
+|-------+-------------+-------------------------------+------------|
+|  9:00 | Lorenzo     | Kim, Choi (2010)              | Jens-Peter |
+|  9:40 | Niels       | Daughety and Reinganum (2010) | Marius     |
+| 10:20 | break       |                               |            |
+| 10:35 | Birk        | Hoffmann et al.               | Lorenzo    |
+| 11:15 | Rasmus      | Ali and Benabou               | Niels      |
+| 11:55 | lunch break |                               |            |
+| 12:45 | Peter       | Jann and Schottmüller         | Arthur     |
+| 13:25 | Gustav      | Kahn et al. (2000)            | Rasmus     |
+
+The time plan for each slot is as follows:
+- 20 minutes for the presenter
+- 10 minutes for the discussant
+- 10 minutes general discussion
+You can use slides and you should send the slides to your discussant by Wednesday noon at the latest to allow him to adjust his discussion. 
 
 * Paper submission
 We will try to have the paper submission through Absalon. You should be able to upload your paper and also you should be assigned one paper to "peer review" which means that this is the paper you will have to discuss on presentation day. 
+
+*Deadline*: There was some confusion. Originally, I said Nov. 9 9:00 but the Absalon upload (which I am not very good at using) said Nov. 10 23:59. I will now take the /compromise solution of setting Nov. 9 23:59 as deadline./
 
 * Office hours
 On Tuesday, October 3, I will have office hours in case you want to discuss something about your paper with me. You can book a slot using the following spreadsheet.
