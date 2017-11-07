@@ -3,7 +3,7 @@
 * Presentation Days
 This is the plan for the presentation days. The room will be announced later.
 
-Thursday Nov. 16:
+Thursday Nov. 16 in CSS 7.0.04:
 
 |  time | presenter  | paper                     | discussant |
 |-------+------------+---------------------------+------------|
@@ -13,7 +13,7 @@ Thursday Nov. 16:
 | 15:35 | Arthur     | Conitzer et al. (2012)    |    Gustav  |
 | 16:15 | Jens-Peter | Villas Boas (2004)        |    Änne    |
 
-Friday Nov. 17:
+Friday Nov. 17 in CSS 7.0.01:
 
 |  time | presenter   | paper                         | discussant |
 |-------+-------------+-------------------------------+------------|
