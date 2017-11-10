@@ -7,11 +7,11 @@ Thursday Nov. 16 in CSS 7.0.04:
 
 |  time | presenter  | paper                     | discussant |
 |-------+------------+---------------------------+------------|
-| 14:00 | Änne       | Aquisti and Varian (2005) |      Birk  |
-| 14:40 | Marius     | Taylor (2004)             |    Peter   |
-| 15:20 | break      |                           |            |
-| 15:35 | Arthur     | Conitzer et al. (2012)    |    Gustav  |
-| 16:15 | Jens-Peter | Villas Boas (2004)        |    Änne    |
+| 14:15 | Änne       | Aquisti and Varian (2005) |      Birk  |
+| 14:55 | Marius     | Taylor (2004)             |    Peter   |
+| 15:35 | break      |                           |            |
+| 15:50 | Arthur     | Conitzer et al. (2012)    |    Gustav  |
+| 16:30 | Jens-Peter | Villas Boas (2004)        |    Änne    |
 
 Friday Nov. 17 in CSS 7.0.01:
 
