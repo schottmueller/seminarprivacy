@@ -32,6 +32,8 @@ The time plan for each slot is as follows:
 - 10 minutes general discussion
 You can use slides and you should send the slides to your discussant by Wednesday noon at the latest to allow him to adjust his discussion. 
 
+Please browse through the papers of all participants. You can find them [[https://github.com/schottmueller/seminarprivacy/files/1460535/submissions.zip][here]].
+
 * Paper submission
 We will try to have the paper submission through Absalon. You should be able to upload your paper and also you should be assigned one paper to "peer review" which means that this is the paper you will have to discuss on presentation day. 
 
