@@ -71,17 +71,19 @@ Monday, September 11, 10.00 in CSS 1.1.17
 
 - Ali, Bénabou. /Image versus information: Changing societal norms and optimal privacy/ No. w22203. National Bureau of Economic Research, 2016. :: People can contribute to a public good and differ in their marginal utility of that. However, people also care about image (they want to be viewed as generous). A government can top up the contributions but does not know the general level of usefulness of the public good. Privacy shuts down image concerns and therefore contributions are indicative of the usefulness of the public good, i.e. the government knows how much to top up, but privacy also means that free riding incentives are prominent (and not countervailed by image concerns). 
 
-- Daughety, Reinganum, American Economic Journal: Microeconomics 2010, 2(2), p. 191-221, /Public goods, social pressure, and the choice between privacy and publicity/ :: An agent cares about his action (say voluntary contribution to a public good), other agents' actions and the perception of other agents about his action. What are the welfare effects of the possibility to keep your action private? 
+- Daughety, Reinganum, American Economic Journal: Microeconomics 2010, 2(2), p. 191-221, /Public goods, social pressure, and the choice between privacy and publicity/ :: An agent cares about his action (say voluntary contribution to a public good), other agents' actions and the perception of other agents about his action. What are the welfare effects of the possibility to keep your action private?
+
+- Gradwohl and Smorodinsky, Games and Economic Behavior 2017, 104, p. 293-308, /Perception games and privacy/ :: A player is aware that his actions will influence the way people view him. He has therefore preferences over actions and perceptions that these actions induce. Preferences for privacy mean that the player would prefer if observers' perceptions are not influenced by his actions. How do such privacy preferences influence behavior?
 
 - Kahn,  McAndrews,  Roberds, Technical Report 2000-22, Federal Reserve Bank of Atlanta 2000,  /A theory of transactions privacy/ :: Following the Coase theorem, property rights over data (who owns your personal data) do not affect final outcomes. The paper describes why Coasian bargaining might break down and why privacy rights matter in this case.
 
 - Jann and Schottmüller, working paper 2016, /An informational theory of privacy/ :: If individuals fear statistical discrimination in the future based on their decisions today, they might adapt today's behavior ("chilling effects"). What are the welfare effects of this?
 
-- Varian, In Privacy and Self-regulation in the Information Age. US Department of Commerce 1997,    /Economic aspects of personal privacy/ :: Notes that low costs of information processing in the computer age generate privacy concerns. However, he notes that consumers might suffer if too little is known about them.
+- Varian, In /Privacy and Self-regulation in the Information Age./ US Department of Commerce 1997,    /Economic aspects of personal privacy/ :: Notes that low costs of information processing in the computer age generate privacy concerns. However, he notes that consumers might suffer if too little is known about them.
 
 - Hoffmann, Inderst,  Ottaviani, working paper 2015, /Persuasion through Selective Disclosure: Implications for Marketing, Campaigning, and Privacy Regulation/ :: Senders (say parties or firms) have very rich information and have therefore be selective in what to communicate to targets (say voters or consumers). When are privacy rules, which require the target's consent before acquiring information on it, efficient? *
 
-- Cummings R, Ligett K, Pai M. and A. Roth, working paper 2015, The strange case of privacy in equilibrium models :: In a model of targeted advertising the degree of privacy is modeled by a continuous parameter ranging from full to no privacy. It is shown that the effect of varying privacy on various outcomes is not necessarily monotonic and sometims counterintuitive.
+- Cummings R, Ligett K, Pai M. and A. Roth, working paper 2015, /The strange case of privacy in equilibrium models/ :: In a model of targeted advertising the degree of privacy is modeled by a continuous parameter ranging from full to no privacy. It is shown that the effect of varying privacy on various outcomes is not necessarily monotonic and sometims counterintuitive.
 
 ** Personalization of prices and/or product
 
